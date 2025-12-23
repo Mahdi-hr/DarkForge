@@ -1,0 +1,5 @@
+venv/
+**/__pycache__/
+*.pyc
+mypro_postgres_data/
+mypro_pgadmin_data/
